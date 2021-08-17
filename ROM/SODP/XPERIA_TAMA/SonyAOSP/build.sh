@@ -6,8 +6,8 @@
 
 function set_variables() {
     echo "####SET VARIABLES START####"
-    build_cache=/run/media/martin/extLinux/developer/android/cache/sonyAOSP/11 #CustomROM out dir
-    build_out=/run/media/martin/extLinux/developer/android/out/sonyAOSP/11
+    build_cache=/media/extLinux/developer/android/cache/sonyAOSP/11 #CustomROM out dir
+    build_out=/media/extLinux/developer/android/out/sonyAOSP/11
     customROM_dir=/home/developer/android/rom/sonyAOSP/11
     echo "####SET VARIABLES END####"
 }
