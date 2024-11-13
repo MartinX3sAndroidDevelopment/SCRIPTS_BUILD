@@ -61,6 +61,7 @@ functions_update_customROM_WORKAROUND ${customROM_dir:?}  # TODO Temp until the 
 add_custom_hacks
 
 build_sonyAOSP aosp_h8216 ap3a akari # XZ2_SS
+build_sonyAOSP aosp_h8314 ap3a apollo # XZ2C_SS
 build_sonyAOSP aosp_h8416 ap3a akatsuki # XZ3_SS
 
 functions_success "Sony AOSP"
