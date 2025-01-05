@@ -13,5 +13,5 @@
 I provided a dockerfile, to build AOSP without installing all the dependencies on your system.
 You can use it like this:
 ```bash
-podman pod rm builder --force && podman kube play builder-pod.yaml --userns=keep-id
+podman pod rm builder --force && podman kube play builder-pod.yaml
 ```
